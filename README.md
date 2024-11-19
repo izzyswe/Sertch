@@ -1,4 +1,4 @@
-# Sertch
+![logo](https://github.com/user-attachments/assets/4bd5007a-709e-4c09-aeb2-e4dde9e2233f)
 
 ## Automation Project
 Search tool and File organzier.
